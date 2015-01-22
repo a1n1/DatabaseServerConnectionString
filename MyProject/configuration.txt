@@ -1,0 +1,1 @@
+connectionString: {"name:myDataBase" "login:myLogin" "password:myPass" "LoginType:SomeType"}
